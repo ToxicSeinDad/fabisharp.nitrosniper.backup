@@ -13,6 +13,10 @@
 
 ---
 
+# Warning
+this is not my Repo! This is a Backup to get it working on replit again! My Discord: Bluescreen#6974
+Original Repo: https://github.com/localip/nitro-sniper
+
 # Features
 
 - Nitro, giveaway & invite sniper
